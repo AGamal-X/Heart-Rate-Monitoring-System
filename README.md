@@ -79,6 +79,27 @@ python3 app.py
 
 ---
 
+## 🔌 Wiring
+
+### Pulse Sensor
+- VCC → 5V  
+- GND → GND  
+- Signal → A0  
+
+### LCD (I2C)
+- VCC → 5V  
+- GND → GND  
+- SDA → A4  
+- SCL → A5  
+
+### Buzzer
+- + → D11  
+- - → GND  
+
+---
+
+### 📌 Note
+Keep your finger steady for 20–30 seconds before closing the window to ensure an accurate report.
 ## ⚠️ Important Note
 
 Keep your finger steady for 20–30 seconds before closing the window to ensure an accurate report.

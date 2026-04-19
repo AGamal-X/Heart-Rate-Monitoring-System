@@ -1,0 +1,7 @@
+output/
+*.csv
+*.png
+*.pdf
+__pycache__/
+.DS_Store
+

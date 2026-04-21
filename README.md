@@ -100,9 +100,6 @@ python3 app.py
 
 ### 📌 Note
 Keep your finger steady for 20–30 seconds before closing the window to ensure an accurate report.
-## ⚠️ Important Note
-
-Keep your finger steady for 20–30 seconds before closing the window to ensure an accurate report.
 
 ---
 
